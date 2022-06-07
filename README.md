@@ -18,4 +18,4 @@ To start react I had to download react application in VS code. I used Node to ru
 * To make a priority list with a yello, green, red - list
 * Have a add button
 * To connect it to a cloud database
-* add css
+* add css 
